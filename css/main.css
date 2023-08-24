@@ -580,9 +580,11 @@ img {
         padding-left: 58px;
     }
     .hero__title {
+        text-align: start;
         font-size: 32px;
     }
     .hero__desc {
+        text-align: start;
         font-size: 15px;
     }
     
